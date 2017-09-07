@@ -85,3 +85,7 @@ write.table(tidy_data_avg,
             quote=F,
             sep=',',
             row.names=F)
+
+write.table(tidy_data_avg,
+            'tidy_data_avg.txt',
+            row.names=F)
