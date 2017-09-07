@@ -15,26 +15,43 @@ The following is a passage from the file `./source/feature_info.txt` that explai
 > '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 > tBodyAcc-XYZ
+
 > tGravityAcc-XYZ
+
 > tBodyAccJerk-XYZ
+
 > tBodyGyro-XYZ
+
 > tBodyGyroJerk-XYZ
+
 > tBodyAccMag
+
 > tGravityAccMag
+
 > tBodyAccJerkMag
+
 > tBodyGyroMag
+
 > tBodyGyroJerkMag
+
 > fBodyAcc-XYZ
+
 > fBodyAccJerk-XYZ
+
 > fBodyGyro-XYZ
+
 > fBodyAccMag
+
 > fBodyAccJerkMag
+
 > fBodyGyroMag
+
 > fBodyGyroJerkMag
 
 > The set of variables that were estimated from these signals are: 
 
 > mean(): Mean value
+
 > std(): Standard deviation
 
-The complete list of variables of each feature vector is available in `features.txt`.
+The complete list of variables of each feature vector in the tidy data set is available in `features.txt`.
